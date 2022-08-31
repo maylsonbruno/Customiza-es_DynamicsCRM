@@ -1,0 +1,10 @@
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\bin\Debug\TccPlugin.dll.config
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\bin\Debug\TccPlugin.dll
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\bin\Debug\TccPlugin.pdb
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\bin\Debug\Microsoft.Xrm.Tooling.Connector.dll
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\bin\Debug\Microsoft.Xrm.Tooling.Connector.xml
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\obj\Debug\TccPlugin.csproj.AssemblyReference.cache
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\obj\Debug\TccPlugin.csproj.CoreCompileInputs.cache
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\obj\Debug\TccPlugin.csproj.CopyComplete
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\obj\Debug\TccPlugin.dll
+C:\Users\full\source\repos\Dynacooptcc\TccPlugin\obj\Debug\TccPlugin.pdb

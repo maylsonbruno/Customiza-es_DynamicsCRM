@@ -1,0 +1,6 @@
+C:\Users\full\source\repos\Dynacooptcc\WebResource\bin\Debug\WebResource.dll
+C:\Users\full\source\repos\Dynacooptcc\WebResource\bin\Debug\WebResource.pdb
+C:\Users\full\source\repos\Dynacooptcc\WebResource\obj\Debug\WebResource.csproj.AssemblyReference.cache
+C:\Users\full\source\repos\Dynacooptcc\WebResource\obj\Debug\WebResource.csproj.CoreCompileInputs.cache
+C:\Users\full\source\repos\Dynacooptcc\WebResource\obj\Debug\WebResource.dll
+C:\Users\full\source\repos\Dynacooptcc\WebResource\obj\Debug\WebResource.pdb
